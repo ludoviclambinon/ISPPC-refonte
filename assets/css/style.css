@@ -1,0 +1,99 @@
+/*.btn-outline-success {
+    color: #61d5fe;
+    border-color: #61d5fe;
+    &.btn-outline-success:hover {
+        color: #fff;
+        background-color: #61d5fe;
+        border-color: #61d5fe;
+    }
+}*/
+.navbar-light .navbar-nav .nav-link {
+  color: black;
+}
+
+#lockIcon:hover {
+  color: red;
+}
+
+.jumbotronLogo {
+  height: 25vh;
+}
+
+.jumbotron {
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  background-image: url("/assets/img/fond2-opacity.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  border-radius: .3rem;
+  margin: 0;
+}
+
+.btn-primary {
+  color: white;
+  font-weight: 600;
+  background-color: #ffb21a;
+  border-color: #ffb21a;
+}
+
+.btn-primary.btn-primary:hover {
+  color: white;
+  background-color: #fe0198;
+  border-color: #fe0198;
+}
+
+footer {
+  background-color: #f8f9fa;
+  color: black;
+}
+
+.fa-facebook {
+  color: black;
+}
+
+.fa-facebook:hover {
+  color: #4267B2;
+}
+
+.fa-twitter {
+  color: black;
+}
+
+.fa-twitter:hover {
+  color: #1da1f2;
+}
+
+.fa-instagram {
+  color: black;
+}
+
+.fa-instagram:hover {
+  color: transparent;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+.fa-youtube {
+  color: black;
+}
+
+.fa-youtube:hover {
+  color: #FF0000;
+}
+
+footer li a {
+  color: black;
+}
+
+footer li a:hover {
+  color: black;
+  text-decoration: none;
+}
+
+footer .logo-texte {
+  height: 150px;
+}
+/*# sourceMappingURL=style.css.map */
