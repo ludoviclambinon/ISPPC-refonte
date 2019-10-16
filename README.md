@@ -9,4 +9,5 @@ Le travail a été réalisé avec HTML 5 et CSS3 / SASS via la technologie <a hr
 
 Ce travail a été réalisé en une semaine et est responsive.
 
+### Crédits
 Lambinon-Mortier Ludovic
