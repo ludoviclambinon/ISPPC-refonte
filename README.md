@@ -12,3 +12,5 @@ Ce travail a été réalisé en une semaine et est responsive.
 ### Crédits
 Lambinon-Mortier Ludovic
 Octobre 2019
+
+**Contact : ludoviclambinon.work@gmail.com**
