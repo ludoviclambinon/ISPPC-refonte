@@ -51,6 +51,12 @@
     }
 }
 
+//Retire le fond bleu lors du clique - boutons jumbotron
+.btn:focus,.btn:active {
+    outline: none !important;
+    box-shadow: none;
+ }
+
 //Footer
 footer {
     background-color: #f8f9fa;

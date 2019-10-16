@@ -43,6 +43,12 @@
   border-color: #fe0198;
 }
 
+.btn:focus, .btn:active {
+  outline: none !important;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+
 footer {
   background-color: #f8f9fa;
   color: black;
