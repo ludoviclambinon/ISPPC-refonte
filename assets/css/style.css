@@ -30,6 +30,10 @@
   margin: 0;
 }
 
+.btn-success {
+  margin: 10px;
+}
+
 .btn-primary {
   color: white;
   font-weight: 600;
