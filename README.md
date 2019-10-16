@@ -8,3 +8,5 @@ Ceci est un travail personnel et fait office de maquette.
 Le travail a été réalisé avec HTML 5 et CSS3 / SASS via la technologie <a href="https://getbootstrap.com/">Bootstrap</a>.
 
 Ce travail a été réalisé en une semaine et est responsive.
+
+Lambinon-Mortier Ludovic
